@@ -1,5 +1,5 @@
 # Naruto-vs-Sasuke
-A simple multi-player game of my favorite anime characters.
+A fun multi-player game of my favorite anime characters.
 
 Dependencies:
 python
